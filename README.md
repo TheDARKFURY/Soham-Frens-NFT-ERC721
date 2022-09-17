@@ -1,4 +1,4 @@
-# Customizable NFT Drop Minting Page
+# Customizable NFT Drop Minting Page - Soham Frens
 
 In this example, you can create your own NFT Drop minting page just by customising the template with your branding, and plugging in your NFT Drop contract address.
 
@@ -50,8 +50,3 @@ Inside [`_app.tsx`](/pages/_app.tsx) you can configure the network you want to u
 // This is the chainId your dApp will work on.
 const activeChainId = ChainId.Mumbai;
 ```
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
-# Soham-Frens
